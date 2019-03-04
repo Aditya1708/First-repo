@@ -8,6 +8,8 @@ for i in range(t):
         print('YES')
     else:
         print('NO')
+        
+print('This is adascool_1')        
 
 
 
